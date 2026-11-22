@@ -1,0 +1,8 @@
+export { commonOrigins, commonRoots, commonTalents } from './character'
+export { commonPhysiques } from './physiques'
+export { commonBloodlines } from './bloodlines'
+export { commonItems } from './items'
+export { commonRelics } from './relics'
+export { commonWorldBossItems } from './world-boss-items'
+export { commonTechniques } from './techniques'
+export { commonTreasures } from './treasures'

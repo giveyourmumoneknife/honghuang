@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "洪荒编年史",
+  "short_name": "洪荒",
+  "description": "单机、放置、开放世界、文字 RPG。以一世之身，走过龙汉、巫妖、封神与西游。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4eee3",
+  "theme_color": "#9e3b2f",
+  "categories": ["games", "role-playing"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
